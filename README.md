@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Twelve</h1>
 <h3 align="center">I work for Invious Studio.</h3>
 
-- 🔭 I'm currently a Lead Developer at **Brutal Legends**
+- 🔭 I'm currently a Lead Developer at **Brutal Legends & Dekai Origins**
+
+- 📝 I'm currently working at **AlwiNation Minecraft Server**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
