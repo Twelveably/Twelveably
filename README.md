@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Twelveably</h1>
-<h3 align="center">I work for Invious Studio.</h3>
+<h3 align="center">I'm currently the Minecraft Lead-Developer for Invious Studio.</h3>
 
-- 🔭 I'm currently the Lead Developer for **Brutal Legends & Dekai Origins**
+- 🔭 I'm currently the Lead-Developer for **Brutal Legends & Dekai Origins**
 
 - 📝 I'm also a Developer on the **AlwiNation Minecraft Server**
 
