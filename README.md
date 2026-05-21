@@ -1,5 +1,5 @@
 <h1 align="center">Howdy, I'm Twelveably.</h1>
-<h3 align="center">I'm currently the Minecraft Lead-Developer for Invious Studio.</h3>
+<h3 align="center">I'm the Project Manager for INVS Studio.</h3>
 <hr>
 
 - 📝 I'm currently working as a developer for **GM Entertainment**
