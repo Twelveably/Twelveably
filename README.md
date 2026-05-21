@@ -2,10 +2,7 @@
 <h3 align="center">I'm currently the Minecraft Lead-Developer for Invious Studio.</h3>
 <hr>
 
-
-- 🔭 I'm currently the Lead-Developer for **Brutal Legends & Dekai Origins**
-
-- 📝 I'm also a Developer on the **AlwiNation Minecraft Server**
+- 📝 I'm currently working as a developer for **GM Entertainment**
 
 <hr>
 <h3 align="left">Languages and Tools:</h3>
